@@ -40,4 +40,4 @@ jobs:
 
       - name: Compile binary
         run: go build -o myapp
-
+# comment
